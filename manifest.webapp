@@ -1,0 +1,18 @@
+{
+    "version": "1.0",
+    "name": "Hosted FxOS",
+    "launch_path": "/index.html",
+    "description": "This app is a stub for creating more hosted apps",
+    "fullscreen": "false",
+    "orientation": ["landscape", "portrait"],
+    "icons": {
+        "60": "/img/icons/icon60.png",
+        "128": "/img/icons/icon128.png"
+    },
+    "developer": {
+        "name": "Aras Balali Moghaddam",
+        "url": "http://arasbm.com"
+    },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
